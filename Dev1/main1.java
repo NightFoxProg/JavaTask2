@@ -1,2 +1,4 @@
-package Dev1;public class main1 {
+package Dev1;
+
+public class main1 {
 }
